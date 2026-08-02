@@ -129,11 +129,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [Paper API](https://papermc.io/)
 - Inspired by real-world slot machine mechanics
 
-## 📞 Support
-
-- Issues: [GitHub Issues](https://github.com/yourusername/SlotMachineNPC/issues)
-- Discord: [Join our Discord](https://discord.gg/yourserver)
-
----
 
 **Enjoy the thrill of the slots! 🎰💰**
