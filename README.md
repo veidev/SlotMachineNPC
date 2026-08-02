@@ -83,17 +83,6 @@ The slot machine is balanced for realistic gameplay:
 4. Click **SPIN!** to play
 5. Watch the reels spin and see if you win!
 
-## 🖼️ Screenshots
-
-### Slot Machine GUI
-![Slot Machine GUI](https://via.placeholder.com/400x300/1a1a1a/00ff00?text=Slot+Machine+GUI)
-
-### Jackpot Win
-![Jackpot](https://via.placeholder.com/400x300/1a1a1a/ffd700?text=JACKPOT!)
-
-### NPC Example
-![NPC](https://via.placeholder.com/400x300/1a1a1a/ff6600?text=Slot+Machine+NPC)
-
 ## 🔧 Development
 
 ### Building from Source
