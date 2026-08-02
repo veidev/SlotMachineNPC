@@ -1,0 +1,22 @@
+name: SlotMachineNPC
+version: 1.0.0
+main: com.vei666.slotmachinenpc.SlotMachineNPC
+api-version: '1.21'
+author: vei666
+description: Villager NPC slot machine - bet emeralds and spin!
+commands:
+  slotnpc:
+    description: Spawn a slot machine villager NPC
+    usage: /slotnpc
+    permission: slotnpc.admin
+  slotnpcremove:
+    description: Remove nearest slot machine villager
+    usage: /slotnpcremove
+    permission: slotnpc.admin
+permissions:
+  slotnpc.admin:
+    description: Allows spawning/removing slot NPCs
+    default: op
+  slotnpc.play:
+    description: Allows playing slot machine
+    default: true
